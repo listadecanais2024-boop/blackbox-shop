@@ -1,4 +1,4 @@
-
+// Atualizando botão de compra
   export default function Home() {
   const produtos = [
     { nome: "Fire TV Stick", preco: "R$ 375,00", desc: "Streaming rápido, compacto e fácil de usar." },
